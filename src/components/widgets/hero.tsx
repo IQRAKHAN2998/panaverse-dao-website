@@ -29,7 +29,7 @@ const Hero = () => {
                     </div>
                     {/* right side */}
                     <div className="flex-1">
-                        <Image src="/hero-poster.webp" alt="hero-poster" width={500} height={500}></Image>
+                        <Image src="/hero-poster.png" alt="hero-poster" width={500} height={500}></Image>
                     </div>
                 </div>
             </Wrapper>
